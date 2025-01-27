@@ -2,33 +2,27 @@
 
 <br>
 
-<a href="https://github.com/iamprogrammerlk">
-  <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+<a href="https://github.com/webdress">
+  <img src="https://avatars.githubusercontent.com/u/196608501?s=200&v=4" alt="webdress" width="200">
 </a>
 
 <br>
 <br>
 
-# I am Programmer
-
-## Programming is like sex, I can't make a mistake.</h4>
+## A sleek, open-source, UI framework to effortlessly style and design modern, responsive websites. Dressed up your web designing projects with ease.</h4>
 
 <br>
 
 ---
 
-#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
+#### [Home][home] 🔶 [Sponsors][sponsors] 🔶 [Discussions][discussions] 🔶 [Github][github] 🔶 [Buy Me a Coffee][buymeacoffee]
 
 ---
 
-[home]: https://iamprogrammer.lk
-[blog]: https://blog.iamprogrammer.lk
+[home]: https://webdress.github.io
 [sponsors]: https://github.com/sponsors/iamprogrammerlk
-[discussions]: https://github.com/iamprogrammerlk/iamprogrammerlk/discussions
-[github]: https://github.com/iamprogrammerlk
-[youtube]: https://youtube.com/@iamprogrammerlk
-[x]: https://x.com/iamprogrammerlk
-[linkedin]: https://lk.linkedin.com/company/iamprogrammerlk
+[discussions]: https://github.com/webdress/webdress/discussions
+[github]: https://github.com/webdress
 [buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk
 
 <br>
@@ -37,11 +31,11 @@
 
 <!-- <br> -->
 
-<!-- ## :briefcase: Projects -->
+<!-- ## 💼 Projects -->
 
-<!-- ### :fire: _Templates_ -->
+<!-- ### 🔥 _Templates_ -->
 
-<!-- [Template Chromium Theme][template_chromium_theme] :small_orange_diamond: [Template GPL v3][template_gpl_v3] :small_orange_diamond: [Template MIT v1][template_mit_v1] :small_orange_diamond: [Template OSL v3][template_osl_v3] :small_orange_diamond: [Template WTFPL v2][template_wtfpl_v2]
+<!-- [Template Chromium Theme][template_chromium_theme] 🔶 [Template GPL v3][template_gpl_v3] 🔶 [Template MIT v1][template_mit_v1] 🔶 [Template OSL v3][template_osl_v3] 🔶 [Template WTFPL v2][template_wtfpl_v2]
 
 [template_chromium_theme]: https://github.com/iamprogrammerlk/template_chromium_theme
 [template_gpl_v3]: https://github.com/iamprogrammerlk/template_gpl_v3
@@ -51,7 +45,7 @@
 
 <!-- ### :fire: _Themes For Chromium-based Web Browsers_ -->
 
-<!-- [Brown Crown][browncrown] :small_orange_diamond: [Orange Change][orangechange] :small_orange_diamond: [Pink Wink][pinkwink] :small_orange_diamond: [Purple Ripple][purpleripple] :small_orange_diamond: [Rose Pose][rosepose] :small_orange_diamond: [Yellow Mellow][yellowmellow]
+<!-- [Brown Crown][browncrown] 🔶 [Orange Change][orangechange] 🔶 [Pink Wink][pinkwink] 🔶 [Purple Ripple][purpleripple] 🔶 [Rose Pose][rosepose] 🔶 [Yellow Mellow][yellowmellow]
 
 [browncrown]: https://github.com/iamprogrammerlk/browncrown
 [orangechange]: https://github.com/iamprogrammerlk/orangechange
