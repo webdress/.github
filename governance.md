@@ -74,7 +74,7 @@ _This governance document may evolve as the project grows. Major changes will be
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [issues]: /../../issues
-[community]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
+[community]: https://reddit.com/r/webdress
 [contributing]: /contributing.md
 [code_of_conduct]: /code_of_conduct.md
 [contributor_license_agreement]: /contributor_license_agreement.md
