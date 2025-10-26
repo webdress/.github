@@ -99,7 +99,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 [https://www.contributor-covenant.org/faq][faq]. Translations are available at
 [https://www.contributor-covenant.org/translations][translations].
 
-[community]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
+[community]: https://reddit.com/r/webdress
 [contributor_covenant]: https://www.contributor-covenant.org
 [code_of_conduct]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [mozilla_code_of_conduct]: https://github.com/mozilla/diversity
