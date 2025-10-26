@@ -61,10 +61,10 @@ If your issue isn't getting attention:
 
 - 🚀 Getting Started Guide: [Quickstart][documentation]
 
-[documentation]: https://{{ORGANIZATION_USERNAME}}.github.io/documentation
-[community]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
+[documentation]: https://webdress.github.io/documentation
+[community]: https://reddit.com/r/webdress
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
-[support_email]: mailto:support@{{ORGANIZATION_WEBSITE}}
-[youtube]: https://youtube.com/@{{ORGANIZATION_USERNAME}}
-[api_documentation]: https://{{ORGANIZATION_USERNAME}}.github.io/documentation
+[support_email]: mailto:webdress@workspace.lk
+[youtube]: https://youtube.com/@webdress
+[api_documentation]: https://webdress.github.io/documentation
